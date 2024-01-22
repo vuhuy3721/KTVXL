@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "adcsampler.h": "c",
+        "i2smicsampler.h": "c"
+    }
+}
