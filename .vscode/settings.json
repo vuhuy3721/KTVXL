@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "i2s.h": "c",
+        "i2smicsampler.h": "c",
+        "ringbuffer.h": "c",
+        "map": "cpp",
+        "esp_system.h": "c",
+        "esp_log.h": "c"
+    }
+}
